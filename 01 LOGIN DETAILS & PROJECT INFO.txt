@@ -1,0 +1,18 @@
+**Database Name: onlclassroom**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Student Login Details**
+
+Email   : www.natnaelmekuria@gmail.com
+Password: 654321
+
+**Faculty Login Details**
+
+ID      : 1o9
+Password: 123456
+
+
